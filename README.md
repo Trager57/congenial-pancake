@@ -1,2 +1,2 @@
 # congenial-pancake
-Tarım sulama
+Smart Irrigation Need Prediction
